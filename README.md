@@ -1,4 +1,4 @@
-# Documentación sobre proyectos y temas relacionados con las TIC
+# ¿Qué encontrarás?
 
 Bienvenid@,
 
