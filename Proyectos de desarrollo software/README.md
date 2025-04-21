@@ -1,9 +1,29 @@
-**¿Qué proyectos hay?**
+# 💻 Software Development Projects
 
-- *Linker*: es quizá el proyecto más grande con el que me he enfrentado. Linker podría dividirse en dos etapas claramente diferenciadas (a) participación en ActúaUPM, el programa de jóvenes emprendedores de la Universidad Politécnica de Madrid y (b) el desarrollo a través del modelado de software en la Universidad Complutense de Madrid. Resumidamente, Linker pretende ser un buscador en el que la información está organizaba en base a la opinión de las personas y no a un algoritmo matemático. Todo ello sobre una capa social que permite una mayor interacción entre los propios usuarios que lo conforman.
+**What projects are included in this section?**
 
-- *Sistema de Administración de Casinos*: es un proyecto que se realizó durante dos cuatrimestres en la asignatura de Ingeniería de Software. El objetivo principal es el desarrollo de una aplicación en Java que es capaz de gestionar distintos actores en un supuesto casino electrónico. Los actores y sus diferentes funcionalidades vienen definidas en la documentación del proyecto. También podemos encontrar el código empleado en el desarrollo y el uso de patrones, como el MVC, para su desarrollo.
+### 🔗 Linker
 
-- Cisco CMX: cabe destacar que no es como tal un "desarrollo de software". Aquí abarcamos la configuración de Cisco Connected Mobile Experiences. Se trata la configuración para la puesta a punto, se forma somera, de esta nueva visión por parte de Cisco. Se verán, entre otras cosas, configuraciones del tipo: creación de una red privada, configuración de controladores Cisco, configuración de APs, Cisco Prime Infrastructure, Mobility Services Engine, etc.
+*   **Stages**:
+    *   (a) Participation in ActúaUPM (UPM's entrepreneurship program).
+    *   (b) Development through software modeling at UCM.
+*   **Concept**: Information search engine organized based on user opinions, with a social layer for interaction.
+*   **Achievements**: Finalist in ActúaUPM.
+*   **Documentation**: Business Plan, Financial Analysis, Software Requirements Specification, Estimation Plan, Quality Assurance Plan, Risk Management Plan, Configuration Management Plan, Time Planning, and Project Plan.
+
+### 🎰 Casino Administration System
+
+*   **Context**: Academic Software Engineering project (two semesters).
+*   **Objective**: Development of a Java application to manage actors in an electronic casino.
+*   **Technology**: Java, design patterns (e.g., MVC).
+*   **Documentation**: Project analysis, test cases, design, software requirements, project plan.
+*   **Code**: Available, including the implementation of patterns.
+
+### 🌐 Cisco CMX (Connected Mobile Experiences)
+
+*   **Nature**: Configuration of the Cisco CMX platform, not traditional software development.
+*   **Scope**: Basic setup of Cisco CMX.
+*   **Configurations**: Creation of private networks, configuration of Cisco controllers, APs, Cisco Prime Infrastructure, Mobility Services Engine, etc.
+*   **Documentation**: Report and configuration/API manuals.
 
 

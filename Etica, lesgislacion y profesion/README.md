@@ -1,5 +1,7 @@
-**¿Qué documentación encontramos?**
+# ⚖️ Ethics, Legislation, and Profession
 
-- *Delitos informáticos*: por favor, consultar la *Introducción* del propio documento para más información.
+**What documentation can be found in this section?**
+
+- 📄 *Computer Crimes*: Please consult the *Introduction* section of the document itself for more information.
 
 
